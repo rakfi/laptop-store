@@ -54,7 +54,7 @@ A responsive and visually engaging web application for a fictional laptop store,
 2. Navigate to the project directory:
 
     ```bash
-    cd laptop-store
+    cd my-project
     ```
 
 3. Install the dependencies:
