@@ -48,13 +48,13 @@ A responsive and visually engaging web application for a fictional laptop store,
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/laptop-store.git
+    git clone https://github.com/rakfi/laptop-store.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd my-project
+    cd laptop-store
     ```
 
 3. Install the dependencies:
@@ -74,9 +74,13 @@ A responsive and visually engaging web application for a fictional laptop store,
 ## Usage
 
 - **Home Page**: Shows an animated carousel of laptop images with captions. 
+![alt text](image.png)
 - **Products Page**: Browse various laptop categories, including Gaming, Work, and Budget options.
+![alt text](image-1.png)
 - **About Us Page**: Information about the store’s mission and offerings.
+![alt text](image-2.png)
 - **Contact Page**: Provides contact information or a form for customer inquiries.
+![alt text](image-3.png)
 
 ## Project Structure
 
